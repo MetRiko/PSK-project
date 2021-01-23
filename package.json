@@ -1,0 +1,19 @@
+{
+  "name": "psk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "collections": "^5.1.12",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "json2csv": "^5.0.5",
+    "perf_hooks": "^0.0.1",
+    "prompts": "^2.4.0"
+  }
+}
